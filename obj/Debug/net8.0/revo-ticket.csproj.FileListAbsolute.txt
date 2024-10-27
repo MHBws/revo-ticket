@@ -1,0 +1,4 @@
+C:\Users\Mathe\OneDrive\Documentos\revo-ticket\obj\Debug\net8.0\revo-ticket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathe\OneDrive\Documentos\revo-ticket\obj\Debug\net8.0\revo-ticket.AssemblyInfoInputs.cache
+C:\Users\Mathe\OneDrive\Documentos\revo-ticket\obj\Debug\net8.0\revo-ticket.AssemblyInfo.cs
+C:\Users\Mathe\OneDrive\Documentos\revo-ticket\obj\Debug\net8.0\revo-ticket.csproj.CoreCompileInputs.cache
